@@ -1,2 +1,2 @@
 # QR-app
-Frontend 
+Frontend technology - Html , Css and Javascript
